@@ -373,7 +373,6 @@ export default function Home() {
                   </h1>
                 </div>
               </div>
-<br><br><br><br>Built with &#128155; by <a href="https://www.elyserobinson.com" target="_blank">Elyse Y. Robinson</a>
             </div>
           );
         })}
