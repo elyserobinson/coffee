@@ -1,4 +1,6 @@
 # Buy Elyse A Coffee With Ethereum dApp
+
+![Buy Me A Coffee dApp](coffee-small.png)
  
 Build A Buy Me A Coffee dApp using Solidity, an Ethereum Smart Contract, React, and TailwindCSS. A platform where anyone on the internet can send you money to purchase coffee and send a note. All the information is kept on the blockchain via an Ethereum smart contract.
 
